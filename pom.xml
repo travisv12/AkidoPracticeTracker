@@ -52,7 +52,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>AkidoPracticeTracker</mainClass>
+                            <mainClass>AikidoPracticeTracker</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
